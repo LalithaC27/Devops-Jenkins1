@@ -1,1 +1,3 @@
-# Devops-Jenkins1
+# maven-project
+
+Simple Maven Project for Devops
